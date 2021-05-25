@@ -1,0 +1,8 @@
+[influxdb]
+host = "influxdb.apps.dylangore.space"
+port = "443"
+token = "inserttokenhere"
+organization = "IoT-Apps"
+bucket = "gestures"
+tls = true
+verify_tls = true
